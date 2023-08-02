@@ -1,0 +1,7 @@
+.calculatorContainer{
+    display: flex;
+    align-items: center;
+    background: #f4f2f3;
+    min-height: 100vh;
+}
+
